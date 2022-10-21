@@ -18,15 +18,15 @@
 **表 1**  网络质量监控指标
 
 <a name="table114711628164913"></a>
-<table><thead align="left"><tr id="row64721428144917"><th class="cellrowborder" valign="top" width="16.666666666666664%" id="mcps1.2.7.1.1"><p id="zh-cn_topic_0024607920_p61417783193247"><a name="zh-cn_topic_0024607920_p61417783193247"></a><a name="zh-cn_topic_0024607920_p61417783193247"></a>指标</p>
+<table><thead align="left"><tr id="row64721428144917"><th class="cellrowborder" valign="top" width="16.666666666666664%" id="mcps1.2.7.1.1"><p id="zh-cn_topic_0024607920_p61417783193247"><a name="zh-cn_topic_0024607920_p61417783193247"></a><a name="zh-cn_topic_0024607920_p61417783193247"></a>指标ID</p>
 </th>
 <th class="cellrowborder" valign="top" width="16.666666666666664%" id="mcps1.2.7.1.2"><p id="zh-cn_topic_0024607920_p8784488193247"><a name="zh-cn_topic_0024607920_p8784488193247"></a><a name="zh-cn_topic_0024607920_p8784488193247"></a>指标名称</p>
 </th>
-<th class="cellrowborder" valign="top" width="16.666666666666664%" id="mcps1.2.7.1.3"><p id="zh-cn_topic_0024607920_p40454922193247"><a name="zh-cn_topic_0024607920_p40454922193247"></a><a name="zh-cn_topic_0024607920_p40454922193247"></a>含义</p>
+<th class="cellrowborder" valign="top" width="16.666666666666664%" id="mcps1.2.7.1.3"><p id="zh-cn_topic_0024607920_p40454922193247"><a name="zh-cn_topic_0024607920_p40454922193247"></a><a name="zh-cn_topic_0024607920_p40454922193247"></a>指标含义</p>
 </th>
 <th class="cellrowborder" valign="top" width="16.666666666666664%" id="mcps1.2.7.1.4"><p id="zh-cn_topic_0024607920_p55623236193247"><a name="zh-cn_topic_0024607920_p55623236193247"></a><a name="zh-cn_topic_0024607920_p55623236193247"></a>取值范围</p>
 </th>
-<th class="cellrowborder" valign="top" width="16.666666666666664%" id="mcps1.2.7.1.5"><p id="zh-cn_topic_0024607920_p9188287193247"><a name="zh-cn_topic_0024607920_p9188287193247"></a><a name="zh-cn_topic_0024607920_p9188287193247"></a>测试对象</p>
+<th class="cellrowborder" valign="top" width="16.666666666666664%" id="mcps1.2.7.1.5"><p id="zh-cn_topic_0024607920_p9188287193247"><a name="zh-cn_topic_0024607920_p9188287193247"></a><a name="zh-cn_topic_0024607920_p9188287193247"></a>测量对象</p>
 </th>
 <th class="cellrowborder" valign="top" width="16.666666666666664%" id="mcps1.2.7.1.6"><p id="p181159917508"><a name="p181159917508"></a><a name="p181159917508"></a>监控周期</p>
 </th>
@@ -39,7 +39,7 @@
 <td class="cellrowborder" valign="top" width="16.666666666666664%" headers="mcps1.2.7.1.3 "><p id="p1747232834912"><a name="p1747232834912"></a><a name="p1747232834912"></a>云专线的网络时延</p>
 <p id="p083113712439"><a name="p083113712439"></a><a name="p083113712439"></a>单位：ms</p>
 </td>
-<td class="cellrowborder" valign="top" width="16.666666666666664%" headers="mcps1.2.7.1.4 "><p id="p4472162814493"><a name="p4472162814493"></a><a name="p4472162814493"></a>≥0 ms</p>
+<td class="cellrowborder" valign="top" width="16.666666666666664%" headers="mcps1.2.7.1.4 "><p id="p4472162814493"><a name="p4472162814493"></a><a name="p4472162814493"></a>≥ 0 ms</p>
 <p id="p136857168430"><a name="p136857168430"></a><a name="p136857168430"></a></p>
 </td>
 <td class="cellrowborder" valign="top" width="16.666666666666664%" headers="mcps1.2.7.1.5 "><p id="p14472628194911"><a name="p14472628194911"></a><a name="p14472628194911"></a>物理连接和历史物理连接</p>
